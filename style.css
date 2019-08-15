@@ -15,8 +15,11 @@ p
 {
     font-size: 1.0rem;
 }
+.navbar{
+    background: transparent !important;
+    transition: 0.5s;
+}
 .navbar.scrolled{
 background: #000 !important;
 transition: 0.5s;
-
 }

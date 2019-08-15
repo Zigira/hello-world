@@ -1,0 +1,22 @@
+*
+{
+    outline: none !important;
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header
+{
+    position: relative;
+    z-index: 100000;
+}
+p
+{
+    font-size: 1.0rem;
+}
+.navbar.scrolled{
+background: #000 !important;
+transition: 0.5s;
+
+}
